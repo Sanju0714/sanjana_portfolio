@@ -219,7 +219,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "100% correctness on test set & 78.81% token reduction",
     image: "/src/assets/images/project_rag_ai_1792593659120.jpg",
-    githubUrl: "https://github.com/Sanju0714",
+    githubUrl: "https://github.com/Sanju0714/sanjana_portfolio",
     demoUrl: "https://widow-sandblast-pasty.ngrok-free.dev/docs",
     featured: true,
   },
@@ -239,6 +239,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "20 knowledge-base chunks indexed with FAISS",
     image: "/src/assets/images/project_rag_ai_1792593659120.jpg",
+    githubUrl: "https://github.com/Sanju0714/ai-powered-portfolio",
     featured: true,
   },
   {
@@ -256,7 +257,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "4 specialized agents across 5-stage automated process",
     image: "/src/assets/images/project_vision_ai_1792593660834.jpg",
-    githubUrl: "https://github.com/Sanju0714",
+    githubUrl: "https://github.com/Sanju0714/Multi-Agent-Order-to-Cash-Orchestrator",
     featured: true,
   },
   {
@@ -275,7 +276,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "70% confidence threshold & JSON audit logging",
     image: "/src/assets/images/project_rag_ai_1792593659120.jpg",
-    githubUrl: "https://github.com/Sanju0714",
+    githubUrl: "https://github.com/Sanju0714/email-to-action-ai-agent",
     featured: true,
   },
   {
@@ -294,6 +295,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "Churn prediction & LLM-tailored campaign automation",
     image: "/src/assets/images/project_analytics_ai_1792593659438.jpg",
+    githubUrl: "https://github.com/Sanju0714/Customer-Churn-Prediction-and-Retention-Automation",
     featured: false,
   },
 
@@ -314,6 +316,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "1,077 records analyzed & r ≈ 0.036 cost-rating correlation",
     image: "/src/assets/images/project_analytics_ai_1792593659438.jpg",
+    githubUrl: "https://github.com/Sanju0714/eazydiner-restaurant-data-analysis",
     featured: true,
   },
   {
@@ -332,6 +335,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "1.20M sales analyzed & 75.11K avg outlet sales tracked",
     image: "/src/assets/images/project_analytics_ai_1792593659438.jpg",
+    githubUrl: "https://github.com/Sanju0714/BlinkIT-Sales-Performance-Dashboard",
     featured: true,
   },
   {
@@ -349,6 +353,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "Weather & soil feature correlation on seasonal yield data",
     image: "/src/assets/images/project_analytics_ai_1792593659438.jpg",
+    githubUrl: "https://github.com/Sanju0714/Agricultural-Crop-Yield-Analysis-Excel-",
     featured: false,
   },
 
@@ -369,7 +374,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "97.48% accuracy & 89.26% F1-score with Linear SVM",
     image: "/src/assets/images/project_rag_ai_1792593659120.jpg",
-    githubUrl: "https://github.com/Sanju0714",
+    githubUrl: "https://github.com/Sanju0714/Spam-Ham-SMS-Classifier-using-NLP-and-Machine-Learning",
     featured: true,
   },
   {
@@ -387,6 +392,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "86.1% accuracy with Random Forest classifier",
     image: "/src/assets/images/project_vision_ai_1792593660834.jpg",
+    githubUrl: "https://github.com/Sanju0714/Heart-Disease-Prediction-ML",
     featured: false,
   },
   {
@@ -404,6 +410,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "34,500 orders evaluated & ANN 77.55% benchmark",
     image: "/src/assets/images/project_analytics_ai_1792593659438.jpg",
+    githubUrl: "https://github.com/Sanju0714/E-commerce-Return-Prediction",
     featured: false,
   },
   {
@@ -421,6 +428,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "Trained on 204,088 tokens with 9.21% validation accuracy",
     image: "/src/assets/images/project_rag_ai_1792593659120.jpg",
+    githubUrl: "https://github.com/Sanju0714/Shakespeare-Next-Word-Prediction-Using-LSTM-",
     featured: false,
   },
   {
@@ -438,6 +446,7 @@ export const PROJECTS: ProjectItem[] = [
     ],
     keyHighlight: "Custom multilingual preprocessing across 4 Dravidian languages",
     image: "/src/assets/images/project_vision_ai_1792593660834.jpg",
+    githubUrl: "https://github.com/Sanju0714/dravidian-stopword-analysis-nlp",
     featured: false,
   },
 ];
