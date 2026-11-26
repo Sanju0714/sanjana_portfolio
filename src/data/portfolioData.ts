@@ -220,7 +220,6 @@ export const PROJECTS: ProjectItem[] = [
     keyHighlight: "100% correctness on test set & 78.81% token reduction",
     image: "/src/assets/images/project_rag_ai_1792593659120.jpg",
     githubUrl: "https://github.com/Sanju0714/sanjana_portfolio",
-    demoUrl: "https://widow-sandblast-pasty.ngrok-free.dev/docs",
     featured: true,
   },
   {
