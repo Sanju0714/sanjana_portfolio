@@ -100,7 +100,7 @@ export const EDUCATION_INFO = {
     degree: "Data Science with GenAI Program",
     institution: "Innomatics Research Labs",
     location: "Hyderabad",
-    status: "Ongoing",
+    status: "Completed",
   },
   coreFundamentals: [
     "Object-Oriented Programming (OOP)",
